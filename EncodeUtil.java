@@ -13,7 +13,7 @@ import org.apache.commons.codec.binary.Base64;
 import sun.misc.BASE64Decoder;
 
 /**
- * 图片、视频等文件的编码、解码
+ * 图片、视频   等文件的编码、解码
  * @author yanjiang.chen
  *
  */
